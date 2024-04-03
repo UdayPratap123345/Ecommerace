@@ -1,0 +1,13 @@
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\bin\Debug\netcoreapp3.1\BookRental.Model.deps.json
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\bin\Debug\netcoreapp3.1\BookRental.Model.runtimeconfig.json
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\bin\Debug\netcoreapp3.1\BookRental.Model.runtimeconfig.dev.json
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\bin\Debug\netcoreapp3.1\BookRental.Model.dll
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\bin\Debug\netcoreapp3.1\BookRental.Model.pdb
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\obj\Debug\netcoreapp3.1\BookRental.Model.csproj.AssemblyReference.cache
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\obj\Debug\netcoreapp3.1\BookRental.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\obj\Debug\netcoreapp3.1\BookRental.Model.AssemblyInfoInputs.cache
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\obj\Debug\netcoreapp3.1\BookRental.Model.AssemblyInfo.cs
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\obj\Debug\netcoreapp3.1\BookRental.Model.csproj.CoreCompileInputs.cache
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\obj\Debug\netcoreapp3.1\BookRental.Model.dll
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\obj\Debug\netcoreapp3.1\BookRental.Model.pdb
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.Model\obj\Debug\netcoreapp3.1\BookRental.Model.genruntimeconfig.cache

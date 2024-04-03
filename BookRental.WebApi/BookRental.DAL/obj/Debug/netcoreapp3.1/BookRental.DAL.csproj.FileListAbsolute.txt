@@ -1,0 +1,16 @@
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\bin\Debug\netcoreapp3.1\BookRental.DAL.deps.json
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\bin\Debug\netcoreapp3.1\BookRental.DAL.runtimeconfig.json
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\bin\Debug\netcoreapp3.1\BookRental.DAL.runtimeconfig.dev.json
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\bin\Debug\netcoreapp3.1\BookRental.DAL.dll
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\bin\Debug\netcoreapp3.1\BookRental.DAL.pdb
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\bin\Debug\netcoreapp3.1\BookRental.Model.dll
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\bin\Debug\netcoreapp3.1\BookRental.Model.pdb
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\obj\Debug\netcoreapp3.1\BookRental.DAL.csproj.AssemblyReference.cache
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\obj\Debug\netcoreapp3.1\BookRental.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\obj\Debug\netcoreapp3.1\BookRental.DAL.AssemblyInfoInputs.cache
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\obj\Debug\netcoreapp3.1\BookRental.DAL.AssemblyInfo.cs
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\obj\Debug\netcoreapp3.1\BookRental.DAL.csproj.CoreCompileInputs.cache
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\obj\Debug\netcoreapp3.1\BookRental.DAL.csproj.CopyComplete
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\obj\Debug\netcoreapp3.1\BookRental.DAL.dll
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\obj\Debug\netcoreapp3.1\BookRental.DAL.pdb
+C:\Users\udaysingh01\OneDrive - Nagarro\mini-assignments2\backend\BookRental.WebApi\BookRental.DAL\obj\Debug\netcoreapp3.1\BookRental.DAL.genruntimeconfig.cache
